@@ -1,0 +1,77 @@
+.container {
+	width: 1170px;
+	margin: 0 auto;
+	
+}
+li {
+	display: inline-block;
+}
+.a-1 {
+	margin-left: 137px;
+	margin-right: 35px;
+	margin-top: 21px;
+	width: 32px;
+    height: 13px;
+	color: #000000;
+	font-family: 'Roboto', sans-serif;
+
+}
+.a-2 {
+	margin-right: 35px;
+	margin-top: 21px;
+	width: 32px;
+    height: 13px;
+	color: #000000;
+	font-family: 'Roboto', sans-serif;
+}
+.a-3 {margin-right: 35px;
+	margin-top: 21px;
+	width: 32px;
+    height: 13px;
+	color: #000000;
+	font-family: 'Roboto', sans-serif;
+}
+.a-4 {margin-right: 35px;
+	margin-top: 21px;
+	width: 32px;
+    height: 13px;
+	color: #000000;
+	font-family: 'Roboto', sans-serif;
+}
+.ava {
+	margin-top: 11px;
+	vertical-align: middle;
+}
+.h2-1 {
+	margin-top:76px ;
+	margin-bottom: 27px;
+	
+	margin-left:137px ;
+	font-family: 'Roboto', sans-serif;
+
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 28px;
+	color: #000000;
+}
+.s-1 {
+	margin-top:13px ;
+	margin-left:200px ;
+position: absolute;
+width: 362px;
+height: 186px;
+
+background: url(image.png);
+border-radius: 5px 5px 0px 0px;
+border: 2px black;
+}
+
+.card-1 {
+	position: absolute;
+width: 362px;
+height: 171px;
+
+background: #FFFFFF;
+border-radius: 0px 0px 5px 5px;
+}
